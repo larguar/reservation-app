@@ -1,0 +1,25 @@
+{
+  "name": "reservation-app",
+  "version": "1.0.0",
+  "description": "Create the front-end (visuals) for home page, reservation form, and reservation views.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siminski/reservation-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siminski/reservation-app/issues"
+  },
+  "homepage": "https://github.com/siminski/reservation-app#readme"
+}
